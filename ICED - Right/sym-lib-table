@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ICEDRight)(type Legacy)(uri ${KIPRJMOD}/lib/ICEDRight.lib)(options "")(descr ""))
+)
