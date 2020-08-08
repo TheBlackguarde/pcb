@@ -1,4 +1,4 @@
-update=10/11/2016 12:43:34 AM
+update=Wed 29 Jul 2020 08:25:02 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -28,11 +28,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.3048
 BoardOutlineThickness=0.127
 ModuleOutlineThickness=0.1016
-[eeschema]
-version=1
-LibDir=lib
-[eeschema/libraries]
-LibName1=lib/ICEDRight
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -44,3 +39,6 @@ SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
 ERC_TestSimilarLabels=1
+[eeschema]
+version=1
+LibDir=
